@@ -1,6 +1,6 @@
 Disclaimer - THE PROJECT IS STILL UNDER PROGRESS
 
-# pocket_doc
+# Pocket Doc
 
 A new Flutter project.
 the idea was simple , to make a app for health advice generatred from ai ,
@@ -18,6 +18,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
 
 
 
